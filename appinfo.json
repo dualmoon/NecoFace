@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Airside",
+    "longName": "Neco Pixels",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/neco.png",
+                "menuIcon": true,
+                "name": "IMAGE_MAIN_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/BMNEA___.TTF",
+                "name": "FONT_BM_NECO_58",
+                "type": "font"
+            },
+            {
+                "file": "fonts/pixel-love.ttf",
+                "name": "FONT_PIXEL_LOVE_16",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Neco",
+    "uuid": "3604a7a3-7203-4348-be45-dad4a7b4fd77",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
